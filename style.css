@@ -1,3 +1,8 @@
+.body{
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
 #head,
 .heading{
     background-color: rgb(157, 44, 10);
@@ -29,7 +34,20 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .toplink{
-    color: darkorchid;
+    color: rgb(116, 232, 120);
     font-size: 28px;
     font-weight: 700;
+}
+/* from this line on, doner an shishkebab styles*/
+.doner{
+    color: rgb(211, 205, 116);
+    background-color: chocolate;
+}
+.hdoner{
+    background-color: mediumspringgreen;
+    color: indigo;
+}
+.shish{
+    background-color: rgb(192, 12, 114);
+    color: black;
 }
