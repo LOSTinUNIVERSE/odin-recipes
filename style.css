@@ -1,0 +1,35 @@
+#head,
+.heading{
+    background-color: rgb(157, 44, 10);
+    color: rgb(196, 219, 18);  
+    font: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.links {
+    background-color: rgb(209, 199, 209) ;
+    color: red;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.font-kabob{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+
+}
+.heading{
+    background-color: yellow;
+    color: brown;
+}
+.headings{
+    background-color: darksalmon;
+    color: darkolivegreen;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.toplink{
+    color: darkorchid;
+    font-size: 28px;
+    font-weight: 700;
+}
